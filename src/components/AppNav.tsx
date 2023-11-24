@@ -6,7 +6,8 @@ export default function AppNav() {
       <NavLink to="/">Home</NavLink>
       <NavLink to="card-game">Card Game</NavLink>
       <NavLink to="notebook">Notebook</NavLink>
-      <NavLink to="signin">Sign in</NavLink>
+      <NavLink to="login">Login</NavLink>
+      <NavLink to="secret-link">Secret</NavLink>
     </nav>
   );
 }
